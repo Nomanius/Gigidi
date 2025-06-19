@@ -1,2 +1,2 @@
-# Gigidi!!
+# Gigidi
 isdk
